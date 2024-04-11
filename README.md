@@ -24,6 +24,7 @@ You can also run these applications separately by running the appropriate npm sc
 
 ![Screenshot from 2024-04-10 04-45-25](https://github.com/brunokazadi/rankr/assets/105079327/94cf0d49-55f9-455a-bdd9-6fa44977e9e4)
 
+
 ![Screenshot from 2024-04-10 04-50-53](https://github.com/brunokazadi/rankr/assets/105079327/2affcf90-550e-4770-95c5-84f6af26ff1a)
 
 
