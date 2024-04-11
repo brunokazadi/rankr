@@ -1,3 +1,9 @@
+## Rankr
+A full-stack real-time web application
+designed for polling, voting and ranking.
+## Architecture
+![01-Application-Overview](https://github.com/brunokazadi/rankr/assets/105079327/1e140363-d6f9-4825-81df-c7977dc6e12f)
+
 ## Running the application
 
 In order to run the application, you will need to have some prerequisite tools installed. 
@@ -15,6 +21,12 @@ npm run start
 The project root's `package.json` file and its npm scripts are basically just for convenience of running all applications and a database at once.
 
 You can also run these applications separately by running the appropriate npm scripts inside of each project's `package.json` file. 
+
+![Screenshot from 2024-04-10 04-45-25](https://github.com/brunokazadi/rankr/assets/105079327/94cf0d49-55f9-455a-bdd9-6fa44977e9e4)
+
+![Screenshot from 2024-04-10 04-50-53](https://github.com/brunokazadi/rankr/assets/105079327/2affcf90-550e-4770-95c5-84f6af26ff1a)
+
+
 
 
 ## Links to Tools and Frameworks
